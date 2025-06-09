@@ -17,4 +17,6 @@
 
  Bora ver se da certo!
 
-Praticando!
+ Praticando!
+
+ Alteração pelo VScode!
