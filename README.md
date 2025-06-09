@@ -17,6 +17,4 @@
 
  Bora ver se da certo!
 
- Vixi ta tendo jogo!
-
-Testando pelo VScode!
+Praticando!
