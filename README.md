@@ -9,9 +9,9 @@
 
  Bom dia!
 
- Boa noite!!
+ **Boa noite!!**
 
- Cr7 Melhor do Mundo!
+ *Cr7 Melhor do Mundo!*
 
  Mais uma alteração pelo site!
 
