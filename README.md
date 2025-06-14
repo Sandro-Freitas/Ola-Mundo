@@ -7,11 +7,11 @@
 
  Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE!
 
- Bom dia!
+ **Bom dia!**
 
  **Boa noite!!**
 
- *Cr7 Melhor do Mundo!*
+*Cr7 Melhor do Mundo!***
 
  Mais uma alteração pelo site!
 
