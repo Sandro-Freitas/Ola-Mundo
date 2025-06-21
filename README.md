@@ -12,3 +12,5 @@
  **Boa noite!!**
 
 *Cr7 Melhor do Mundo!***
+
+Começando estudos HTML 3 pelo curso em video!
