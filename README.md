@@ -12,15 +12,3 @@
  **Boa noite!!**
 
 *Cr7 Melhor do Mundo!***
-
- Mais uma alteração pelo site!
-
- Bora ver se da certo!
-
-Mais uma Alteração no VScode!!
-
-fazendo uma alteração pelo site!
-
-agora pelo vscode!
-
-comite!@
